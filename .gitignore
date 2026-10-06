@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+results/
+private_images/
+*.egg-info/
+.DS_Store
+.streamlit/secrets.toml
+
+.venv-build/
+build/
+dist/
+*.spec.bak

@@ -1,0 +1,1 @@
+examples/01_synthetic-demo_results.zip {"encrypt_median_ms": 1.451498, "encrypt_std_ms": 0.061779732323089954, "decrypt_median_ms": 0.7839164999999999, "decrypt_std_ms": 0.04613236576805348, "MB_per_s": 8.465736776764418, "warmups": 5, "repeats": 30, "round_material_included": false}

@@ -1,0 +1,127 @@
+[
+  {
+    "name": "PRESENT",
+    "lut": "C56B90AD3EF84712",
+    "citation_key": "present2007,iso29192"
+  },
+  {
+    "name": "Magma-Pi_0",
+    "lut": "C462A5B9E8D703F1",
+    "citation_key": "rfc8891"
+  },
+  {
+    "name": "Magma-Pi_1",
+    "lut": "68239A5C1E47BD0F",
+    "citation_key": "rfc8891"
+  },
+  {
+    "name": "Magma-Pi_2",
+    "lut": "B3582FADE174C960",
+    "citation_key": "rfc8891"
+  },
+  {
+    "name": "Magma-Pi_3",
+    "lut": "C821D4F670A53E9B",
+    "citation_key": "rfc8891"
+  },
+  {
+    "name": "Magma-Pi_4",
+    "lut": "7F5A816D093EB42C",
+    "citation_key": "rfc8891"
+  },
+  {
+    "name": "GIFT",
+    "lut": "1A4C6F392DB7508E",
+    "citation_key": "gift2017"
+  },
+  {
+    "name": "PRINCE",
+    "lut": "BF32AC916780E5D4",
+    "citation_key": "prince2012"
+  },
+  {
+    "name": "RECTANGLE",
+    "lut": "65CA1E79B03D8F42",
+    "citation_key": "rectangle2015"
+  },
+  {
+    "name": "SKINNY-64",
+    "lut": "C6901A2B385D4E7F",
+    "citation_key": "skinny2016"
+  },
+  {
+    "name": "CRAFT",
+    "lut": "CAD3EBF789150246",
+    "citation_key": "craft2019"
+  },
+  {
+    "name": "TWINE",
+    "lut": "C0FA2B9583D71E64",
+    "citation_key": "twine2012"
+  },
+  {
+    "name": "Piccolo",
+    "lut": "E4B238091A7F6C5D",
+    "citation_key": "piccolo2011"
+  },
+  {
+    "name": "KLEIN",
+    "lut": "74A91FB0C3268ED5",
+    "citation_key": "klein2012"
+  },
+  {
+    "name": "LBlock-s_0",
+    "lut": "E9F0D4AB128376C5",
+    "citation_key": "lblock2011"
+  },
+  {
+    "name": "Midori-sb_1",
+    "lut": "1053E2F7DA9BC846",
+    "citation_key": "midori2015"
+  },
+  {
+    "name": "PRIDE",
+    "lut": "048F15E927ACBD63",
+    "citation_key": "pride2014"
+  },
+  {
+    "name": "Serpent-S_0",
+    "lut": "38F1A65BED42709C",
+    "citation_key": "serpent1998"
+  },
+  {
+    "name": "Serpent-S_3",
+    "lut": "0FB8C963D124A75E",
+    "citation_key": "serpent1998"
+  },
+  {
+    "name": "Serpent-S_7",
+    "lut": "1DF0E82B74CA9356",
+    "citation_key": "serpent1998"
+  },
+  {
+    "name": "Feather (2023)",
+    "lut": "9671C0F583DE2BA4",
+    "citation_key": "panchami2023feather"
+  },
+  {
+    "name": "Duong et al. (2024)",
+    "lut": "9F08AB2C347651DE",
+    "citation_key": "duong2024robust"
+  },
+  {
+    "name": "Tolpa--ES (2025)",
+    "lut": "A381EB764C205FD9",
+    "citation_key": "tolpa2025chaos"
+  },
+  {
+    "name": "Tolpa--ELET (2025)",
+    "lut": "19FDEBA56C402837",
+    "citation_key": "tolpa2025chaos"
+  },
+  {
+    "name": "Naseer--PEIGEN (2025)",
+    "lut": "0451C9673AE8B2FD",
+    "citation_key": "naseer2025quantitative"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "S-box": "PRESENT",
+    "NOT": 3,
+    "NAND": 18,
+    "NOR": 1,
+    "AND": 6,
+    "OR": 12,
+    "Total": 40
+  },
+  {
+    "S-box": "Piccolo",
+    "NOT": 1,
+    "NAND": 8,
+    "NOR": 0,
+    "AND": 0,
+    "OR": 8,
+    "Total": 17
+  },
+  {
+    "S-box": "mCrypton-S0",
+    "NOT": 4,
+    "NAND": 15,
+    "NOR": 2,
+    "AND": 8,
+    "OR": 8,
+    "Total": 37
+  },
+  {
+    "S-box": "mCrypton-S1",
+    "NOT": 4,
+    "NAND": 18,
+    "NOR": 0,
+    "AND": 4,
+    "OR": 13,
+    "Total": 39
+  },
+  {
+    "S-box": "mCrypton-S2",
+    "NOT": 4,
+    "NAND": 16,
+    "NOR": 0,
+    "AND": 6,
+    "OR": 12,
+    "Total": 38
+  },
+  {
+    "S-box": "mCrypton-S3",
+    "NOT": 3,
+    "NAND": 12,
+    "NOR": 1,
+    "AND": 11,
+    "OR": 9,
+    "Total": 36
+  },
+  {
+    "S-box": "LBlock-S0",
+    "NOT": 2,
+    "NAND": 11,
+    "NOR": 1,
+    "AND": 2,
+    "OR": 7,
+    "Total": 23
+  },
+  {
+    "S-box": "LBlock-S1",
+    "NOT": 5,
+    "NAND": 11,
+    "NOR": 1,
+    "AND": 5,
+    "OR": 9,
+    "Total": 31
+  },
+  {
+    "S-box": "LBlock-S2",
+    "NOT": 2,
+    "NAND": 11,
+    "NOR": 2,
+    "AND": 2,
+    "OR": 7,
+    "Total": 24
+  },
+  {
+    "S-box": "LBlock-S3",
+    "NOT": 2,
+    "NAND": 11,
+    "NOR": 1,
+    "AND": 2,
+    "OR": 7,
+    "Total": 23
+  },
+  {
+    "S-box": "LBlock-S4",
+    "NOT": 1,
+    "NAND": 12,
+    "NOR": 1,
+    "AND": 1,
+    "OR": 6,
+    "Total": 21
+  },
+  {
+    "S-box": "LBlock-S5",
+    "NOT": 2,
+    "NAND": 12,
+    "NOR": 1,
+    "AND": 3,
+    "OR": 8,
+    "Total": 26
+  },
+  {
+    "S-box": "LBlock-S6",
+    "NOT": 3,
+    "NAND": 12,
+    "NOR": 3,
+    "AND": 4,
+    "OR": 7,
+    "Total": 29
+  },
+  {
+    "S-box": "LBlock-S7",
+    "NOT": 2,
+    "NAND": 12,
+    "NOR": 3,
+    "AND": 2,
+    "OR": 9,
+    "Total": 28
+  },
+  {
+    "S-box": "TWINE",
+    "NOT": 4,
+    "NAND": 14,
+    "NOR": 1,
+    "AND": 5,
+    "OR": 11,
+    "Total": 35
+  },
+  {
+    "S-box": "MIBS",
+    "NOT": 4,
+    "NAND": 17,
+    "NOR": 2,
+    "AND": 8,
+    "OR": 8,
+    "Total": 39
+  },
+  {
+    "S-box": "Midori-Sb_0",
+    "NOT": 2,
+    "NAND": 10,
+    "NOR": 0,
+    "AND": 2,
+    "OR": 5,
+    "Total": 19
+  },
+  {
+    "S-box": "Midori-Sb_1",
+    "NOT": 4,
+    "NAND": 14,
+    "NOR": 1,
+    "AND": 1,
+    "OR": 4,
+    "Total": 24
+  },
+  {
+    "S-box": "KLEIN",
+    "NOT": 4,
+    "NAND": 16,
+    "NOR": 2,
+    "AND": 11,
+    "OR": 11,
+    "Total": 44
+  },
+  {
+    "S-box": "GIFT",
+    "NOT": 2,
+    "NAND": 19,
+    "NOR": 1,
+    "AND": 5,
+    "OR": 9,
+    "Total": 36
+  },
+  {
+    "S-box": "Li et al.",
+    "NOT": 3,
+    "NAND": 15,
+    "NOR": 5,
+    "AND": 6,
+    "OR": 5,
+    "Total": 34
+  },
+  {
+    "S-box": "This work S",
+    "NOT": 0,
+    "NAND": 1,
+    "NOR": 6,
+    "AND": 11,
+    "OR": 10,
+    "Total": 28
+  },
+  {
+    "S-box": "This work S^{-1}",
+    "NOT": 0,
+    "NAND": 2,
+    "NOR": 5,
+    "AND": 11,
+    "OR": 10,
+    "Total": 28
+  }
+]
