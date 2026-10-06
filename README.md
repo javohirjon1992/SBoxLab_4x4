@@ -107,6 +107,3 @@ py -3.12 -m venv .venv
 .venv\Scripts\python.exe -m pytest -q
 ```
 
-## Optional legacy browser UI
-
-The earlier Streamlit code is preserved only for reference in `legacy_web/app_streamlit.py`. It is **not** used by the desktop EXE. To run it deliberately, install `requirements-web.txt` and invoke Streamlit manually.
