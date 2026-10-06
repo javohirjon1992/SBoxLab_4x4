@@ -2,7 +2,7 @@
 
 SBoxLab 4×4 Experimental Platform is an **English-language native desktop application** for the construction, evaluation, circuit verification, and two-round image experiments described in *Construction of S-Boxes with Bidirectionally Stable Strict Avalanche Properties Based on Affine Transformations*.
 
-The primary interface is now **Tkinter desktop UI**. It does **not** use localhost, Streamlit, Flask, FastAPI, a browser, an API key, or a cloud service.
+The primary interface is now **Tkinter desktop UI**. 
 
 ## Fastest use on Windows
 
