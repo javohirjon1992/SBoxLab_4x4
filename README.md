@@ -90,8 +90,7 @@ sboxlab/export.py            CSV/LaTeX/JSON/PNG/PDF/NPZ/ZIP exports
 sboxlab/data/                Benchmark LUTs and exact gate netlists
 assets/                      Circuit diagrams and application icon
 tests/                       Numerical, cipher, resource, desktop smoke tests
-legacy_web/app_streamlit.py  Preserved previous browser UI source
-```
+ ```
 
 ## Scientific/reproducibility notes
 
